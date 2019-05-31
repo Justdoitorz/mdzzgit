@@ -1,0 +1,8 @@
+total 32
+drwxrwxr-x 3 orz orz 4096 May 31 17:03 .
+drwxrwxr-x 3 orz orz 4096 May 31 16:12 ..
+-rwxrwxr-x 1 orz orz 8835 May 31 16:30 a.out
+-rw-rw-r-- 1 orz orz  379 May 31 16:30 fopen.c
+drwxrwxr-x 8 orz orz 4096 May 31 17:03 .git
+-rw-rw-r-- 1 orz orz    0 May 31 17:03 list2.file
+-rw-rw-r-- 1 orz orz    9 May 31 16:12 README.md
