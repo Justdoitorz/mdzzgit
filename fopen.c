@@ -22,4 +22,12 @@ int main()
 	fclose(fp);
 
 	return 0;
+
 }
+
+
+/*
+*
+* Add for git diff hash1 hash2 --stat
+*
+*/
